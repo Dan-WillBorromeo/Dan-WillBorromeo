@@ -3,7 +3,6 @@
 - 🌱 I’m currently earning my BSCS Degree
 - 💞️ I’m looking to collaborate on game design projects
 - 📫 How to reach me 
-     Phone number: 0927-055-5039
      Email address: d.willborromeo@gmail.com
 
 <!---
